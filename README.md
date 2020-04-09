@@ -1,4 +1,4 @@
-# Methods in Ruby
+touch greeting.rb# Methods in Ruby
 
 ## Overview
 
